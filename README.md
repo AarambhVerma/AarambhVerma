@@ -1,4 +1,6 @@
-### Hi there 👋
+# Aarambh Verma
+- 🌱 I’m currently learning Cloud Computing, MERN and kubernetes & Docker
+#### 
 
 <!--
 **AarambhVerma/AarambhVerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
