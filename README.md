@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aarambh Verma</h1>
-<h3 align="center">A dedicated full-stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Aarambh Verma</h1>
+<h3 align="left">A dedicated full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarambhverma&label=Profile%20views&color=1994e1&style=flat" alt="aarambhverma" /> </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aarambhverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="aarambhverma" height="30" width="40" /></a>
+<a href="https://codepen.io/aarambhverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="aarambhverma" height="30" width="40" style="padding-right: 10px;"/></a>
 <a href="https://dev.to/aarambhverma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aarambhverma" height="30" width="40" /></a>
 <a href="https://twitter.com/aarambhverma246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="aarambhverma246" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aarambhverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="aarambhverma" height="30" width="40" /></a>
