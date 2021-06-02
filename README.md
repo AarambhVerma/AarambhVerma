@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarambhverma&label=Profile%20views&color=1994e1&style=flat" alt="aarambhverma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarambhverma" alt="aarambhverma" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=aarambhverma" alt="aarambhverma" /></p>
 
 - 🔭 I’m currently working on [WeCare NGO Website](https://github.com/AarambhVerma/WeCare)
 
