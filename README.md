@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **node.js, express and python**
 
-- 📫 How to reach me **aarambhverma246@gmail.com**
+- 📫 Reach out to me at **aarambhverma246@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
