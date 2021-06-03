@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aarambhverma246" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47849451/120450381-06c17680-c3ae-11eb-8898-99d5c7d0c4fb.png" alt="aarambhverma246" height="40" width="40" /></a>
+<a href="https://twitter.com/aarambhverma246" target="blank" margin-right="20"><img align="center" src="https://user-images.githubusercontent.com/47849451/120450381-06c17680-c3ae-11eb-8898-99d5c7d0c4fb.png" alt="aarambhverma246" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/aarambhverma" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47849451/120450345-00cb9580-c3ae-11eb-9770-cec6bafae660.png" alt="aarambhverma" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/aarambh-verma" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47849451/120450348-01fcc280-c3ae-11eb-9911-b139174c50fb.png" alt="aarambh-verma" height="40" width="40" /></a>
 </p>
