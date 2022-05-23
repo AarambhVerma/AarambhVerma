@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarambh Verma</h1>
-<h3 align="center">A dedicated full-stack developer</h3>
+<h3 align="center">A dedicated DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AarambhVerma](https://github.com/AarambhVerma)
 
